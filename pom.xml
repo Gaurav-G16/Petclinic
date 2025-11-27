@@ -19,6 +19,8 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <maven.compiler.source>${java.version}</maven.compiler.source>
         <maven.compiler.target>${java.version}</maven.compiler.target>
+              <sonar.host.url>https://violative-clorinda-dualistically.ngrok-free.dev</sonar.host.url>
+ <sonar.login>sqa_1c93b485f91469169d1db13546a4aeaeea3b3d5f</sonar.login>
 
         <!-- Spring -->
         <!-- For framework compatibility, refer to the Spring Boot Dependencies BOM -->
